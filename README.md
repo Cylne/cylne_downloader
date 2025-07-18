@@ -26,7 +26,8 @@ Masukkan nomor: 1
 
 1. Buka Termux dan jalankan:
 
-pkg update && pkg install python git -y
+pkg update && 
+pkg install python git -y
 pip install yt-dlp rich
 termux-setup-storage
 
