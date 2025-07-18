@@ -26,15 +26,20 @@ Masukkan nomor: 1
 
 1. Buka Termux dan jalankan:
 
-pkg update && 
+pkg update &&
+
 pkg install python git -y
+
 pip install yt-dlp rich
+
 termux-setup-storage
 
 2. Clone repo atau download manual:
 
 git clone https://github.com/Cylne/cylne_downloader.git
+
 cd cylne_downloader
+
 python cylne_downloader.py
 
 3. Atau jika file disimpan manual di /sdcard:
@@ -77,5 +82,7 @@ Gunakan script ini untuk penggunaan pribadi dan edukatif. Kami tidak bertanggung
 ✨ Author
 
 Cylne Tools
+
 🛠️ Dibuat oleh: @Hiicylne
+
 📍 Indonesia | Android + Termux Based
