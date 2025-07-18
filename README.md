@@ -32,7 +32,7 @@ termux-setup-storage
 
 2. Clone repo atau download manual:
 
-git clone https://github.com/yourusername/cylne_downloader
+git clone https://github.com/Cylne/cylne_downloader.git
 cd cylne_downloader
 python cylne_downloader.py
 
